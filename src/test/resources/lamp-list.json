@@ -1,0 +1,16 @@
+[
+{
+  "id": 1,
+  "brand": "UMAGE",
+  "price": 333.33,
+  "type": "Incandescentes",
+  "available": false
+},
+  {
+    "id": 2,
+    "brand": "WIPRO",
+    "price": 433.93,
+    "type": "Halogenas",
+    "available": true
+  }
+]
