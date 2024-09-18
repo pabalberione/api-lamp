@@ -6,7 +6,7 @@ Este es un proyecto de API REST para la gestión de venta de lámparas desarroll
 
 - CRUD (Crear, Leer, Actualizar, Eliminar) de lámparas.
 - Arquitectura basada en Spring Boot.
-- Uso de JPA para la persistencia de datos en una base de datos H2 en memoria.
+- Uso de JPA para la persistencia de datos en una base de datos MySql.
 - Pruebas unitarias con JUnit y Mockito.
 - Control de excepciones para las operaciones.
 
